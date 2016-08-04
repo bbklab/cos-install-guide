@@ -1,0 +1,2 @@
+  - [常规安装](cos-install-guide/general/README.md)
+  - [HA集群安装](cos-install-guide/ha/README.md)
